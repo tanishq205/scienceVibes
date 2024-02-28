@@ -4,7 +4,7 @@ $(function() {
             $(this).attr("src", "assets/gravity.gif");
         },
         function() {
-            $(this).attr("src", "assets/gravity.png");
+            $(this).attr("src", "assets/Gravity.png");
         }                         
     );                  
 });
