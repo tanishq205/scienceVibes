@@ -40,3 +40,9 @@ body{
 .modlstyle{
  border-radius: 3%;
 }
+
+.footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
